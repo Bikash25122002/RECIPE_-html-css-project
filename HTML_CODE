@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bikash Tha Dhaba</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="navContainer">
+            
+            <nav>
+                <ul id="navList">
+                    <li>
+                        <p id="navLogo">Bikash da Dhaba</p>
+                    </li>
+                    <li>
+                        <div id="navItems">
+                            <a href="#">Home</a>
+                            <a href="#">About</a>
+                            <a href="#">Contact</a>
+                            
+                        </div>
+                    </li>
+                </ul>
+            </nav>
+
+            
+
+
+
+        </div>
+
+
+       <main>
+        <div class="contentBox">
+
+            
+            <section>
+                <div class="item">
+
+                    <div class="leftBox">
+                        <h2>Gulab Jamun</h2>
+
+                        <div>
+                            <h2>Recipe</h2>
+                            <ol  class="recipeBox">
+                                <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, adipisci?</li>
+                                <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</li>
+                                <li>Lorem7</li>
+                                <li>Lorem ipsum dolor sit.</li>
+                            </ol>
+                        </div>
+
+                        <h2>Ingredients</h2>
+                        <ul  class="ingBox">
+                            <li>Sugar</li>
+                            <li>Bread</li>
+                            <li>Oil</li>
+                        </ul>
+                       
+
+                    </div>
+
+                    <div class="rightBox">
+                        <img src="gulabjamun.jpg" alt="gulabjamun">
+
+                        <div class="overlay">
+                            <span>Click Here to Buy</span>
+                        </div>
+
+
+
+                        
+                    </div>
+                </div>
+
+            </section>
+
+
+
+
+            <section>
+                <div class="item">
+
+                    <div class="leftBox">
+                        <h2>Barfi Jamun</h2>
+
+                        <div>
+                            <h2>Recipe</h2>
+                            <ol>
+                                <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem, adipisci?</li>
+                                <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</li>
+                                <li>Lorem7</li>
+                                <li>Lorem ipsum dolor sit.</li>
+                            </ol>
+                        </div>
+
+                        <h2>Ingredients</h2>
+                        <ul>
+                            <li>Milk</li>
+                            <li>Sugar</li>
+                            <li>Water</li>
+                        </ul>
+                       
+
+                    </div>
+
+                    <div class="rightBox">
+
+                        <img src="barfi.jpg" alt="barfi">
+
+                        <div class="overlay">
+                            <span>Click Here to Buy</span>
+                        </div>
+
+
+                        
+                    </div>
+                </div>
+
+            </section>
+
+
+
+
+
+        </div>
+    </main>
+
+
+
+
+        <footer>
+            <div class="footerBox">
+                <p>
+                Copyright  &copy;  Bikash da Dhaba Pvt. Ltd. 2024
+            </p>
+
+        </div>
+        
+
+        </footer>
+
+    </div> 
+</body>
+</html>
